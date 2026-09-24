@@ -30,7 +30,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ErrorControl3`.
+Working copy from my Historical Dev folder `VB/Old/ErrorControl3`.
 Company names in project files: Dave Robinson. Copyright 2002 Dave Robinson.
 
 ## License
